@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sarthak Chaudhary, a passionate tech enthusiast and recent graduate with a specialization in AI-ML, web development, and various other cutting-edge domains. Beyond my academic journey, I've immersed myself in the world of competitive coding, triumphing over 300 challenges on platforms like LeetCode and HackerRank.<br><br>Dive into my diverse skill set and projects by exploring my portfolio.<br><br>Let's build the future together! 🚀
+I am Sarthak Chaudhary, a passionate tech enthusiast and recent graduate with a specialization in AI-ML, web development, and various other cutting-edge domains. Beyond my academic journey, I've immersed myself in the world of competitive coding, triumphing over 300 challenges on platforms like LeetCode and HackerRank.<br><br>Dive into my diverse skill set and projects by exploring my [portfolio](https://sarthakchaudhary46.github.io/SarthakChaudhary-Portfolio/).<br><br>Let's build the future together! 🚀
 
 
 ## 🌐 Socials:
